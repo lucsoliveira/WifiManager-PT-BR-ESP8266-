@@ -15,10 +15,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -33,7 +29,7 @@
   <h3 align="center">WifiManager (ESP8266) - PT-BR</h3>
 
   <p align="center">
-    Apenas uma versão em PT-BR para a biblioteca WifiManager.
+      Uma versão em PT-BR para a biblioteca <a href="https://github.com/tzapu/WiFiManager">WifiManager</a> com acréscimos de personalização.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -78,7 +74,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -103,7 +99,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Primeiros passos
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -135,7 +131,8 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+
+## Uso
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -151,7 +148,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribua
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
